@@ -1,0 +1,25 @@
+fonts
+
+pop 400, 500, 700
+rob 400
+
+
+font-family: 'Poppins', sans-serif;
+
+
+font-family: 'Roboto', sans-serif;
+
+
+color
+black  #000000
+green  #21B573
+orange #FD511A
+
+
+xxl-xl-lg   md	sm-col
+
+
+space- padding
+font-size  - size
+alignment
+order  
